@@ -1,0 +1,25 @@
+{
+  "name": "discord-musicbot",
+  "version": "1.0.0",
+  "description": "유튜브 API를 이용한 디스코드 음악봇입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navjhj88/Discord-musicbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navjhj88/Discord-musicbot/issues"
+  },
+  "homepage": "https://github.com/navjhj88/Discord-musicbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "youtube-node": "^1.3.3",
+    "ytdl-core": "^4.5.0"
+  }
+}
